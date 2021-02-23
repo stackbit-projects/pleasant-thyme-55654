@@ -35,7 +35,7 @@ const VideoBackground = () => {
             <MDBRow>
               <MDBCol md="12" className="white-text text-center">
                 <h1 className="h1-responsive font-weight-bold mb-0">
-                  Full Page Hero
+                  Full Page Her
                 </h1>
                 <hr className="hr-light w-75" />
                 <h3 className="h3-responsive">
